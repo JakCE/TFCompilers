@@ -28,3 +28,9 @@ Este informe documenta el desarrollo de un intérprete de comandos shell en C++ 
 # Conclusiones
 
 El intérprete de comandos shell implementado demuestra la aplicación de conceptos de análisis léxico y sintáctico en la construcción de un programa funcional. Aunque actualmente admite una serie limitada de comandos, sienta las bases para futuras expansiones y mejoras en términos de funcionalidad y capacidad.
+
+# Video YouTube
+https://youtu.be/K1kfCsaywnU
+
+# Repositorio GitHub
+https://github.com/JakCE/TFCompilers
